@@ -4,6 +4,6 @@ TechStack: SwiftUI, MVVM
 
 ### Screens
 
-![Preview](/BookApp/Preview/Screenshot 2023-04-02 at 16.31.56.png)
-
-![App UI](//BookApp/Preview/Screenshot 2023-04-02 at 16.32.44.png)
+Books Screen       | Book Detail Screen
+:-------------------------:|:-------------------------:|
+<img src="https://github.com/RavanSA/BookApp/blob/main/BookApp/Preview/Screenshot%202023-04-02%20at%2016.31.56.png"/>            |  <img src="https://github.com/RavanSA/BookApp/blob/main/BookApp/Preview/Screenshot%202023-04-02%20at%2016.32.44.png"/>  
