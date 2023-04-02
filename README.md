@@ -1,6 +1,6 @@
 # BookApp
-Basic IOS application fetching data from REST API
-TechStack: SwiftUI, MVVM
+## Basic IOS application fetching data from REST API
+## TechStack: SwiftUI, MVVM
 
 ### Screens
 
